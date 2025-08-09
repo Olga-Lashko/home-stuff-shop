@@ -5,7 +5,7 @@ import Items from "./components/Items";
 import Categiries from "./components/Categiries";
 import ShowFullItem from "./components/ShowFullItem";
 
-class App extends React.Component {
+class App extends Component {
 
 constructor(props){
   super(props)
@@ -125,7 +125,7 @@ constructor(props){
   }
 
   deleteOrder (id) {
-    this.setState({orders: this.state.orders.filter(el => el.id != id)})
+    this.setState({orders: this.state.orders.filter(el => el.id !== id)})
   }
 
   chooseCategory(category) {
