@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/home-stuff-shop/static/css/main.5b88ebc0.css",
+    "main.js": "/home-stuff-shop/static/js/main.11501a4d.js",
+    "static/media/bg.png": "/home-stuff-shop/static/media/bg.c4e44f0fc7ebd6d31548.png",
+    "index.html": "/home-stuff-shop/index.html",
+    "main.5b88ebc0.css.map": "/home-stuff-shop/static/css/main.5b88ebc0.css.map",
+    "main.11501a4d.js.map": "/home-stuff-shop/static/js/main.11501a4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b88ebc0.css",
+    "static/js/main.11501a4d.js"
+  ]
+}
