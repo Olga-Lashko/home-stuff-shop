@@ -1,6 +1,7 @@
 ## Home Goods Online Store (React)
 A single-page React application (SPA) for an online store selling home goods.
-[See the page :] (https://olga-lashko.github.io/home-stuff-shop/)
+
+[See the page :](https://olga-lashko.github.io/home-stuff-shop/)
 
 # Features:
 - Displays a list of products with images, descriptions, and prices.
